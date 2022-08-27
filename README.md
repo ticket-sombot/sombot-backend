@@ -6,6 +6,12 @@ Sombot is an open source digital ticket management software, where anyone in Cam
 
 Currently we are **Starting**
 
+# Technology
+- Python
+- Flask
+- PostgresQL
+- Docker
+
 # Roadmap
 
 The roadmap for this project will initiate on **01 September 2022** and will like to be usable for the first phase at 01 November 2022. Each sprint will have their own design, business and development.
