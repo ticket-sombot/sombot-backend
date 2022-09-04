@@ -4,7 +4,18 @@ Sombot is an open source digital ticket management software, where anyone in Cam
 
 # Status
 
-Currently we are **Starting**
+Making feature: Login - Signup (1st week)
+
+# How to run
+```
+chmod +x ./run
+
+// for development mode
+./run dev 
+
+// for prod mode
+./run prod
+```
 
 # Technology
 - Python

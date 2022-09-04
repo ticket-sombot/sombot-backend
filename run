@@ -1,0 +1,11 @@
+#!/bin/bash
+
+if [ $1 = "dev" ];
+then
+    docker compose -f docker-compose.dev.yaml up --build
+fi
+
+if [ $1 = "prod" ]
+then
+    docker-compose up --build -d
+fi
