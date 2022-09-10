@@ -5,6 +5,7 @@ class ErrorCode:
     USER_EXISTED = 4
     USER_NOT_EXISTED = 5
     REQURED_FIELD_MISSING = 6
+    EVENT_NOT_EXIST = 7
 
 
 class ResponseCode:
